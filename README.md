@@ -16,13 +16,17 @@
 
 ## Django 
 Django Girls' Tutorial 中文版教材
+
 https://www.gitbook.com/book/carolhsu/django-girls-tutorial-traditional-chiness/details
 
 Django Girls 學習指南
+
 https://www.gitbook.com/book/djangogirlstaipei/django-girls-taipei-tutorial/details
 
 Django 由淺入深
+
 https://www.gitbook.com/book/kerol2r20/djangogettingstart/details
 
 Django 设计模式与最佳实践
+
 https://www.gitbook.com/book/wizardforcel/django-design-patterns-and-best-practices/details
