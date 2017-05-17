@@ -40,7 +40,7 @@
 [使用 Flask 設計 RESTful APIs](http://www.pythondoc.com/flask-restful/index.html)
 
 
-## Django 
+##Django 
 Django Girls' Tutorial 中文版教材
 
 https://www.gitbook.com/book/carolhsu/django-girls-tutorial-traditional-chiness/details
@@ -59,7 +59,8 @@ https://www.gitbook.com/book/wizardforcel/django-design-patterns-and-best-practi
 
 
 
-##教程
+
+###教程
 [廖雪峰的python 2.7 教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 
 [廖雪峰的python 3 教程 ](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
