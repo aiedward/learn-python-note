@@ -63,6 +63,8 @@ Django 设计模式与最佳实践
 https://www.gitbook.com/book/wizardforcel/django-design-patterns-and-best-practices/details
 
 
+## Jupter Notebook
+[快速安裝架設 Jupyter Notebook 並修改主題樣式](https://jerrynest.io/install-jupyter-with-style/)
 
 
 ### 教程
